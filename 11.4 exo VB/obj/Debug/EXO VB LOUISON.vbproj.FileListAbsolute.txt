@@ -1,0 +1,34 @@
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.AssemblyReference.cache
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\_11._4_exo_VB.Resources.resources
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.GenerateResource.cache
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.CoreCompileInputs.cache
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.exe
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.xml
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.pdb
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.exe.config
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.exe
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.pdb
+D:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.xml
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.exe.config
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.exe
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.pdb
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.xml
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.AssemblyReference.cache
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.exe.config
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\_11._4_exo_VB.Resources.resources
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.GenerateResource.cache
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.CoreCompileInputs.cache
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.exe
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.xml
+E:\BTS SIO\Mr Boucard\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.pdb
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.exe.config
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.exe
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.pdb
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\bin\Debug\11.4 exo VB.xml
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.AssemblyReference.cache
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\_11._4_exo_VB.Resources.resources
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.GenerateResource.cache
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\EXO VB LOUISON.vbproj.CoreCompileInputs.cache
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.exe
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.xml
+C:\Users\eleve\louison,perrier\VB TP\VB TP\11.4 exo VB\obj\Debug\11.4 exo VB.pdb
