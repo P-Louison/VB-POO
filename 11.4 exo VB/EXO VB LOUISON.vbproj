@@ -122,7 +122,6 @@
     </None>
     <None Include="App.config" />
     <Compile Include="TP 13.1.1.vb" />
-    <Compile Include="TP 16.2.5.vb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

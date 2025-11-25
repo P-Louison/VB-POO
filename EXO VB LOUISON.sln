@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EXO VB LOUISON", "11.4 exo 
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POOCompte", "POOCompte\POOCompte.vbproj", "{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POO.Ecole", "Ecole\POO.Ecole.vbproj", "{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

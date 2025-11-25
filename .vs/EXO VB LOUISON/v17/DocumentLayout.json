@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}|Ecole\\POO.Ecole.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\ecole\\enseignant.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}|Ecole\\POO.Ecole.vbproj|solutionrelative:ecole\\enseignant.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}|Ecole\\POO.Ecole.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\ecole\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}|Ecole\\POO.Ecole.vbproj|solutionrelative:ecole\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}|POOCompte\\POOCompte.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\poocompte\\compteur.classe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}|POOCompte\\POOCompte.vbproj|solutionrelative:poocompte\\compteur.classe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}|POOCompte\\POOCompte.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\poocompte\\compteur.test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1533A8D4-2D18-4E34-B73C-A554CB5A4EE1}|POOCompte\\POOCompte.vbproj|solutionrelative:poocompte\\compteur.test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}|Ecole\\POO.Ecole.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\ecole\\eleve.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B9364B3D-04DF-4E35-AE8E-3A9D489AAC95}|Ecole\\POO.Ecole.vbproj|solutionrelative:ecole\\eleve.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE63B2A-1920-4D27-B451-49CB95C9D566}|11.4 exo VB\\EXO VB LOUISON.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\11.4 exo vb\\tp 15.2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EE63B2A-1920-4D27-B451-49CB95C9D566}|11.4 exo VB\\EXO VB LOUISON.vbproj|solutionrelative:11.4 exo vb\\tp 15.2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Ecole\\Test.vb",
+              "RelativeDocumentMoniker": "Ecole\\Test.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Ecole\\Test.vb",
+              "RelativeToolTip": "Ecole\\Test.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T15:23:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Eleve.Class.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Ecole\\Eleve.Class.vb",
+              "RelativeDocumentMoniker": "Ecole\\Eleve.Class.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Ecole\\Eleve.Class.vb",
+              "RelativeToolTip": "Ecole\\Eleve.Class.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T15:22:49.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enseignant.Class.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Ecole\\Enseignant.Class.vb",
+              "RelativeDocumentMoniker": "Ecole\\Enseignant.Class.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Ecole\\Enseignant.Class.vb",
+              "RelativeToolTip": "Ecole\\Enseignant.Class.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T15:21:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compteur.Test.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POOCompte\\Compteur.Test.vb",
+              "RelativeDocumentMoniker": "POOCompte\\Compteur.Test.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POOCompte\\Compteur.Test.vb",
+              "RelativeToolTip": "POOCompte\\Compteur.Test.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T14:46:21.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compteur.Classe.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POOCompte\\Compteur.Classe.vb",
+              "RelativeDocumentMoniker": "POOCompte\\Compteur.Classe.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POOCompte\\Compteur.Classe.vb",
+              "RelativeToolTip": "POOCompte\\Compteur.Classe.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T14:02:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TP 15.2.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\11.4 exo VB\\TP 15.2.vb",
+              "RelativeDocumentMoniker": "11.4 exo VB\\TP 15.2.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\11.4 exo VB\\TP 15.2.vb",
+              "RelativeToolTip": "11.4 exo VB\\TP 15.2.vb",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T13:19:58.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

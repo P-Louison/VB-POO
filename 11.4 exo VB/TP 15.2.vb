@@ -67,7 +67,7 @@
             Return False
         End If
 
-        For x = pIndex To pPosLibre
+        For x = pIndex To pPosLibre - 2
             pLesMatériels(x) = pLesMatériels(x + 1)
         Next
 
