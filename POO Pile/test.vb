@@ -26,7 +26,7 @@
                     chaine = Console.ReadLine()
 
                     If p.empiler(chaine) Then
-                        Console.WriteLine("élément empiler")
+                        Console.WriteLine("élément empilé")
                     Else
                         Console.WriteLine("l'élément n'a pasété ajouté")
                     End If

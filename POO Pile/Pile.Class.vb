@@ -14,6 +14,7 @@
             Return False
         Else
             tabPile(positionlibre) = valeur
+            positionlibre += 1
             Return True
         End If
 
@@ -25,14 +26,14 @@
     End Sub
 
     Public Function est_vide() As Boolean
-        If tabPile(0) = "" Then
+        If positionlibre = 0 Then
             Return True
         Else
             Return False
         End If
     End Function
 
-    Public Function NombreElement() As Boolean
+    Public Function NombreElement()
         Dim compteur As Integer
         While tabPile(compteur) <> ""
             compteur += 1
@@ -42,9 +43,14 @@
 
     Public Sub affichage()
         Dim i As Integer
-        For i = 0 To positionlibre - 1
-            Console.Write(tabPile(i))
-        Next
+
+        While i <> positionlibre
+            Console.Write((tabPile(i)).ToString + " ")
+            i += 1
+        End While
+
+
+
     End Sub
 
 End Class

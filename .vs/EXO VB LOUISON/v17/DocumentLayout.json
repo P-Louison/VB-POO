@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\poo pile\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|solutionrelative:poo pile\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\poo pile\\pile.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|solutionrelative:poo pile\\pile.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\poo pile\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|solutionrelative:poo pile\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test.vb",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\test.vb",
               "RelativeDocumentMoniker": "POO Pile\\test.vb",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\test.vb*",
-              "RelativeToolTip": "POO Pile\\test.vb*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\test.vb",
+              "RelativeToolTip": "POO Pile\\test.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-12-01T14:02:40.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pile.Class.vb",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\Pile.Class.vb",
               "RelativeDocumentMoniker": "POO Pile\\Pile.Class.vb",
               "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\Pile.Class.vb*",
               "RelativeToolTip": "POO Pile\\Pile.Class.vb*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-12-01T13:49:49.984Z",
               "EditorCaption": ""
