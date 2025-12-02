@@ -11,24 +11,25 @@
     Private indice As Integer
     Private nombreDHeures As Double
 
-    Public Sub New(ByVal nouvNuméro As Double,
-                   ByVal nouvnom As Double,
-                   ByVal nouvprenom As Double,
-                   ByVal nouvadresse As Double,
-                   ByVal nouvnumTel As Double,
-                   ByVal nouvdateNaiss As Double,
+    Public Sub New(ByVal nouvNuméro As String,
+                   ByVal nouvnom As String,
+                   ByVal nouvprenom As String,
+                   ByVal nouvadresse As String,
+                   ByVal nouvnumTel As String,
+                   ByVal nouvdateNaiss As String,
                    ByVal nouvindice As Double,
                    ByVal nouvnombreDHeures As Double)
 
         numéro = nouvNuméro
-        numéro = nouvNuméro
-        numéro = nouvNuméro
-        numéro = nouvNuméro
-        numéro = nouvNuméro
-        numéro = nouvNuméro
-        numéro = nouvNuméro
-        numéro = nouvNuméro
+        nom = nouvnom
+        prenom = nouvprenom
+        adresse = nouvadresse
+        numTel = nouvnumTel
+        dateNaiss = nouvdateNaiss
+        indice = nouvindice
+        nombreDHeures = nouvnombreDHeures
     End Sub
+
 
 
     Public Function GetNuméro()
@@ -52,7 +53,7 @@
     Public Function GetNumTel()
         Return numTel
     End Function
-    Public Sub SetNumTel(ByVal nouvNumTel As String)
+    Public Sub SetNumTelenseignant(ByVal nouvNumTel As String)
         numTel = nouvNumTel
     End Sub
 
@@ -91,9 +92,18 @@
     End Function
 
     Public Overrides Function ToString() As String
-        Return ("Numéro : " + numéro + "Nom : " + nom + "Prénom : " + prenom + "Addresse : " + adresse +
-        "n° de téléphone : " + numTel + "Date de naissance : " + dateNaiss + "Indice : " + indice + "Nombre d'heures : " + nombreDHeures)ToString()
+        Return ("Numéro : " + numéro + vbNewLine +
+            "Nom : " + nom + vbNewLine +
+            "Prenom : " + prenom + vbNewLine +
+            "adresse : " + adresse + vbNewLine +
+            "numTel :" + numTel + vbNewLine +
+            "date de naissance : " + dateNaiss + vbNewLine +
+            "indice " + indice.ToString + vbNewLine +
+            "nombre d'heure : " + nombreDHeures.ToString
+            ).ToString
     End Function
+
+
 
 
 End Class

@@ -2,44 +2,39 @@
 
     Sub main()
 
-        '17.1.1
+        Dim essai As Compteur
 
-        'Dim essai As Compteur
+        essai = New Compteur(25)
+        Console.WriteLine(essai.GetValeur())
 
-        'essai = New Compteur(25)
-        'Console.WriteLine(essai.GetValeur())
+        essai.PlusUn()
+        Console.WriteLine(essai.GetValeur())
 
-        'essai.PlusUn()
-        'Console.WriteLine(essai.GetValeur())
+        essai.DecrementeDe(6)
+        Console.WriteLine(essai.GetValeur())
 
-        'essai.DecrementeDe(6)
-        'Console.WriteLine(essai.GetValeur())
+        essai.IncrementeDe(10)
+        Console.WriteLine(essai.GetValeur())
 
-        'essai.IncrementeDe(10)
-        'Console.WriteLine(essai.GetValeur())
+        essai.IncrementeDe(-10)
+        Console.WriteLine(essai.GetValeur())
 
-        'essai.IncrementeDe(-10)
-        'Console.WriteLine(essai.GetValeur())
+        essai.Raz()
+        Console.WriteLine(essai.GetValeur())
 
-        'essai.Raz()
-        'Console.WriteLine(essai.GetValeur())
+        Console.ReadLine()
 
-        'Console.ReadLine()
+        Dim cB, cC As Compteur
 
+        cB = New Compteur(50)
+        cC = New Compteur(0)
 
-        '17.1.2
+        cC.Raz()
+        cC.IncrementeDe(Int(cB))
+        Console.WriteLine(cB.ToString + cC.ToString)
 
-        'Dim cB, cC As Compteur
-
-        'cB = New Compteur(50)
-        'cC = New Compteur(0)
-
-        'cC.Raz()
-        'cC.IncrementeDe(Int(cB))
-        'Console.WriteLine(cB.ToString + cC.ToString)
-
-        'cB.PlusUn()
-        'Console.WriteLine(cB.ToString + cC.ToString)
+        cB.PlusUn()
+        Console.WriteLine(cB.ToString + cC.ToString)
 
 
 

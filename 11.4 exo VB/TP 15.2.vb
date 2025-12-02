@@ -31,9 +31,6 @@
         Console.WriteLine("l'année d'achat est : " + pUnMatériel.annéeDAchat.ToString)
     End Sub
 
-
-
-
     Sub AfficherLesMatériels(ByVal pLesMatériels() As TMatériel, ByVal pPosLibre As Integer)
         Dim i As Double = 0
 
@@ -42,9 +39,6 @@
         Next
 
     End Sub
-
-
-
 
     Function AjouterUnMatériel(ByVal pMatériel As TMatériel, ByRef pLesMatériels() As TMatériel, ByRef pPosLibre As Integer) As Boolean
 
@@ -55,7 +49,6 @@
             pPosLibre += 1
             Return True
         End If
-
 
     End Function
 
@@ -77,8 +70,6 @@
 
     End Function
 
-
-
     Function SupprimerParNoSérie(ByVal pNoSérie As String, ByRef pLesMatériels() As TMatériel, ByRef pPosLibre As Integer) As Boolean
         Dim i As Double = 0
 
@@ -93,12 +84,6 @@
 
         Return False
     End Function
-
-
-
-
-
-
 
     Sub main()
         Dim pLesMatériels(MAX) As TMatériel
