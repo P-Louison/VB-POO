@@ -79,7 +79,7 @@
         numClasse = nouvNumClasse
     End Sub
 
-    Public Function Moyennes()
+    Public Function Moyenne() As Double
         Dim resultat, i, compteur As Double
 
         For i = 0 To MAXNOTES
@@ -90,7 +90,7 @@
 
         Next
         If compteur = 0 Then
-            Return False
+            Return -1
         End If
 
         Return resultat / compteur
@@ -100,19 +100,22 @@
         tabNotes(noMatiere) = note
     End Sub
 
-    Public Sub affichage()
-        Console.WriteLine("numéro : " + numéro)
-        Console.WriteLine("nom : " + nom)
-        Console.WriteLine("prénom : " + prenom)
-        Console.WriteLine("adresse : " + adresse)
-        Console.WriteLine("n° de téléphone : " + numTeleleve)
-        Console.WriteLine("date de naissance : " + dateNaiss)
-        Console.WriteLine("n° de classen° de classe : " + numClasse)
+    Public Overrides Function ToString() As String
+        Dim chaine As String
+        chaine = ("Numéro : " + numéro + vbNewLine +
+            "Nom : " + nom + vbNewLine +
+            "Prenom : " + prenom + vbNewLine +
+            "adresse : " + adresse + vbNewLine +
+            "numTel :" + numTeleleve + vbNewLine +
+            "date de naissance : " + dateNaiss + vbNewLine +
+            "numéro de classe : " + numClasse + vbNewLine
+            )
         For i = 0 To MAXNOTES
-            Console.Write(tabNotes(i).ToString + " | ")
+            chaine = chaine + tabNotes(i).ToString + " | "
         Next
-        Console.WriteLine()
-    End Sub
+
+        Return chaine
+    End Function
 
 
 

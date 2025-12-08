@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\poo pile\\pile.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|solutionrelative:poo pile\\pile.class.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\nbcomplexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|solutionrelative:nbcomplexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\poo pile\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{08FFBF56-9F35-4478-B1BD-1129BD609239}|POO Pile\\POO Pile.vbproj|solutionrelative:poo pile\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\nbcomplexe\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|solutionrelative:nbcomplexe\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "test.vb",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\test.vb",
-              "RelativeDocumentMoniker": "POO Pile\\test.vb",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\test.vb",
-              "RelativeToolTip": "POO Pile\\test.vb",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-12-01T14:02:40.354Z",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\Class1.cs",
+              "RelativeDocumentMoniker": "Nbcomplexe\\Class1.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\Class1.cs",
+              "RelativeToolTip": "Nbcomplexe\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:17:02.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pile.Class.vb",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\Pile.Class.vb",
-              "RelativeDocumentMoniker": "POO Pile\\Pile.Class.vb",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\POO Pile\\Pile.Class.vb*",
-              "RelativeToolTip": "POO Pile\\Pile.Class.vb*",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-12-01T13:49:49.984Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\Program.cs",
+              "RelativeDocumentMoniker": "Nbcomplexe\\Program.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\Program.cs*",
+              "RelativeToolTip": "Nbcomplexe\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:12:11.053Z",
               "EditorCaption": ""
             }
           ]

@@ -21,7 +21,7 @@
         Dim eleve As Eleve
 
         eleve = New Eleve("112", "Martin", "Pierre", "7, rue de la Paix 77000 MELUN", "0164024532", "23/07/02", "BTSSIO1")
-        eleve.affichage()
+        Console.WriteLine(eleve.ToString())
 
 
 
@@ -44,7 +44,7 @@
             Console.WriteLine(eleve.Moyennes())
         End If
 
-        eleve.affichage()
+        Console.WriteLine(eleve.ToString())
 
         Console.ReadLine()
     End Sub

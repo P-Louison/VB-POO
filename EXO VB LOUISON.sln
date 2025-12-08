@@ -11,6 +11,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POO.Ecole", "Ecole\POO.Ecol
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POO Pile", "POO Pile\POO Pile.vbproj", "{08FFBF56-9F35-4478-B1BD-1129BD609239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nbcomplexe", "Nbcomplexe\Nbcomplexe.csproj", "{D693287A-875C-42F8-80B3-772F40DCC0D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{08FFBF56-9F35-4478-B1BD-1129BD609239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08FFBF56-9F35-4478-B1BD-1129BD609239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08FFBF56-9F35-4478-B1BD-1129BD609239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D693287A-875C-42F8-80B3-772F40DCC0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D693287A-875C-42F8-80B3-772F40DCC0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D693287A-875C-42F8-80B3-772F40DCC0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D693287A-875C-42F8-80B3-772F40DCC0D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
