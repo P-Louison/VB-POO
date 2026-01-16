@@ -18,25 +18,55 @@ namespace CollectionSimplifiee
 
         public bool Ajouter(string cCle, object cValeur)
         {
-            if (tab.Length > MAX)
+            if (positionLibre > MAX)
             {
                 return false;
             }
             else
             {
-                for (i = 0; i <= tab.Length; i++)
-                {
-                    if (tab[i,0] = cCle)
-                    {
-                        return false;
-                    }
-                }
+                tab[positionLibre] = [cCle, cValeur];
+                positionLibre++;
                
             }
-            
             return true;
-
         }
+
+        public object Retourner(string cle)
+        {
+            for (i = 0; i <= tab.Length; ++i)
+            {
+                if (tab[i] == cle)
+                {
+                    return tab[i,1];
+                }
+            }
+            return null;
+        }
+
+        public bool Supprimer(string cle)
+        {
+            for (i = 0; i <= tab.Length; ++i)
+            {
+                if (tab[i] == cle)
+                {
+                    tab[i] = tab[]
+                }
+            }
+            return null;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
 
