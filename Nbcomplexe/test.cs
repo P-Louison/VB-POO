@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Nbcomplexe
 {
-    internal class Program
+    internal class test
     {
         static void Main()
         {

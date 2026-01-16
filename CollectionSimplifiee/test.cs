@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CollectionSimplifiee
 {
-    internal class Program
+    internal class test
     {
         static void Main(string[] args)
         {

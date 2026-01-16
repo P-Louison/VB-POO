@@ -17,6 +17,7 @@ namespace Nbcomplexe
             x = nouvX;
             y = nouvY;
         }
+
         public Complexe()
         {
             x = 0;
