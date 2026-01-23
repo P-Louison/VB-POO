@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionsimplifiee\\entre.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\entre.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\collectionsimplifiee\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionsimplifiee\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\matrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|solutionrelative:matrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Entre.Class.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Entre.Class.cs",
-              "RelativeDocumentMoniker": "CollectionSimplifiee\\Entre.Class.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Entre.Class.cs*",
-              "RelativeToolTip": "CollectionSimplifiee\\Entre.Class.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Matrice\\Program.cs",
+              "RelativeDocumentMoniker": "Matrice\\Program.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Matrice\\Program.cs",
+              "RelativeToolTip": "Matrice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:01:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entre.CLass.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Entre.CLass.cs",
+              "RelativeDocumentMoniker": "CollectionSimplifiee\\Entre.CLass.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Entre.CLass.cs",
+              "RelativeToolTip": "CollectionSimplifiee\\Entre.CLass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T12:33:52.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Collection.class.cs",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs",
               "RelativeDocumentMoniker": "CollectionSimplifiee\\Collection.class.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs*",
-              "RelativeToolTip": "CollectionSimplifiee\\Collection.class.cs*",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAkwGoAAAABAAAA",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs",
+              "RelativeToolTip": "CollectionSimplifiee\\Collection.class.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T12:33:19.937Z",
               "EditorCaption": ""
@@ -56,9 +73,9 @@
               "Title": "test.cs",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\test.cs",
               "RelativeDocumentMoniker": "CollectionSimplifiee\\test.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\test.cs*",
-              "RelativeToolTip": "CollectionSimplifiee\\test.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAABAAAA",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\test.cs",
+              "RelativeToolTip": "CollectionSimplifiee\\test.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T12:28:46.692Z",
               "EditorCaption": ""

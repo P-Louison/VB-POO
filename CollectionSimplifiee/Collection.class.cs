@@ -16,6 +16,18 @@ namespace CollectionSimplifiee
         private int positionLibre = 0;
         private int i = 0;
 
+        private int GetIndice(string pCle)
+        {
+            for (i = 0; i < positionLibre; i++) 
+            {
+                if (tab[i].getCle() == pCle)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
         public bool Ajouter(string cCle, object cValeur)
         {
             if (positionLibre > MAX)
@@ -32,39 +44,28 @@ namespace CollectionSimplifiee
 
         public object Retourner(string cle)
         {
-            foreach (var chaine in tab)
+            if (GetIndice(cle) != -1)
             {
-                if (chaine.getCle() == cle)
-                {
-                    return chaine.getValeur();
-                }
+                return tab[GetIndice(cle)].getValeur();
             }
-            return null;
+            return null;    
         }
 
         public bool Supprimer(string cle)
         {
-            if ((positionLibre <= 0) || (positionLibre > MAX))
+            if ((positionLibre <= 0) || (positionLibre > MAX) || (GetIndice(cle) == -1))
             {
                 return false;
             }
             else
             {
-                for (i = 0; i < positionLibre; i++)
+                for (int j = GetIndice(cle); j < positionLibre - 1; j++)
                 {
-                    if (tab[i].getCle() == cle)
-                    {
-                        for (int j = i; j < positionLibre - 1; j++)
-                        {
-                            tab[j] = tab[j + 1];
-                        }
-                        tab[positionLibre - 1] = null;
-                        positionLibre--;
-                        return true;
-                    }
+                    tab[j] = tab[j + 1];
                 }
+                positionLibre--;
+                return true;
             }
-            return false;
         }
 
         public override string ToString()
@@ -79,22 +80,12 @@ namespace CollectionSimplifiee
 
         public bool Existe(string cle)
         {
-            for (i = 0; i < positionLibre; i++)
-            {
-                if (tab[i].getCle() == cle)
-                {
-                    return true;
-                }
-            }
+            if (GetIndice(cle) != -1) { return true; } 
             return false;
         }
 
         public void Vider()
         {
-            for (i = 0; i < positionLibre; i++)
-            {
-                tab[i] = null;
-            }
             positionLibre = 0;
         }
 

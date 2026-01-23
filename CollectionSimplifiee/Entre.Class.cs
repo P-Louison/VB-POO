@@ -31,7 +31,7 @@ namespace CollectionSimplifiee
         public override string ToString()
         {
             string chaine = string.Empty;
-            chaine = "la cle est : " + cle.ToString() + "la valeur est : " + valeur.ToString();
+            chaine = cle.ToString() + " : " + valeur.ToString();
             return chaine;
         }
     }

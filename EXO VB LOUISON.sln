@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nbcomplexe", "Nbcomplexe\Nb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionSimplifiee", "CollectionSimplifiee\CollectionSimplifiee.csproj", "{1E1D3529-6024-4CF8-B75E-D71AF24582B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrice", "Matrice\Matrice.csproj", "{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1E1D3529-6024-4CF8-B75E-D71AF24582B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E1D3529-6024-4CF8-B75E-D71AF24582B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E1D3529-6024-4CF8-B75E-D71AF24582B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
