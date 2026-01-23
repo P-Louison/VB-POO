@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\nbcomplexe\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|solutionrelative:nbcomplexe\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "test.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\test.cs",
-              "RelativeDocumentMoniker": "Nbcomplexe\\test.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\test.cs",
-              "RelativeToolTip": "Nbcomplexe\\test.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:06:40.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Collection.class.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs",
-              "RelativeDocumentMoniker": "CollectionSimplifiee\\Collection.class.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs",
-              "RelativeToolTip": "CollectionSimplifiee\\Collection.class.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T09:41:40.76Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

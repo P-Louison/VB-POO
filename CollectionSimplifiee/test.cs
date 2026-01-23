@@ -11,11 +11,9 @@ namespace CollectionSimplifiee
     {
         static void Main()
         {
-                private const int MAX = 5;
-                Entre[,] tab = new Entre[];
-                private int positionLibre = 0;
-
-
+            private const int MAX = 5;
+            Entre[,] tab = new Entre[];
+            private int positionLibre = 0;
 
 
 

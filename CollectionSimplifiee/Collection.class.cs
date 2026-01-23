@@ -12,9 +12,8 @@ namespace CollectionSimplifiee
     public class Collection
     {
         private const int MAX = 5;
-        Entre[,] tab = new Entre[MAX,2]; //erreur possible !!
+        Entre[,] tab = new Entre[]; 
         private int positionLibre = 0;
-        private int i = 0;
 
         public bool Ajouter(string cCle, object cValeur)
         {
@@ -24,7 +23,7 @@ namespace CollectionSimplifiee
             }
             else
             {
-                tab[positionLibre] = [cCle, cValeur];
+                tab[positionLibre] = new Entre[cCle, cValeur];
                 positionLibre++;
                
             }
@@ -35,7 +34,7 @@ namespace CollectionSimplifiee
         {
             for (i = 0; i <= tab.Length; ++i)
             {
-                if (tab[i] == cle)
+                if (tab[i,0] == cle)
                 {
                     return tab[i,1];
                 }
