@@ -12,8 +12,9 @@ namespace CollectionSimplifiee
     public class Collection
     {
         private const int MAX = 5;
-        Entre[,] tab = new Entre[]; 
+        private Entre[] tab = new Entre[MAX];
         private int positionLibre = 0;
+        private int i = 0;
 
         public bool Ajouter(string cCle, object cValeur)
         {
@@ -23,20 +24,19 @@ namespace CollectionSimplifiee
             }
             else
             {
-                tab[positionLibre] = new Entre[cCle, cValeur];
+                tab[positionLibre] = new Entre(cCle, cValeur);
                 positionLibre++;
-               
             }
             return true;
         }
 
         public object Retourner(string cle)
         {
-            for (i = 0; i <= tab.Length; ++i)
+            foreach (var chaine in tab)
             {
-                if (tab[i,0] == cle)
+                if (chaine.getCle() == cle)
                 {
-                    return tab[i,1];
+                    return chaine.getValeur();
                 }
             }
             return null;
@@ -44,58 +44,64 @@ namespace CollectionSimplifiee
 
         public bool Supprimer(string cle)
         {
-            for (i = 0; i <= tab.Length; ++i)
+            if ((positionLibre <= 0) || (positionLibre > MAX))
             {
-                if (tab[i] == cle)
+                return false;
+            }
+            else
+            {
+                for (i = 0; i < positionLibre; i++)
                 {
-                    tab[i] = tab[]
+                    if (tab[i].getCle() == cle)
+                    {
+                        for (int j = i; j < positionLibre - 1; j++)
+                        {
+                            tab[j] = tab[j + 1];
+                        }
+                        tab[positionLibre - 1] = null;
+                        positionLibre--;
+                        return true;
+                    }
                 }
             }
-            return null;
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    public class Entre
-    {
-
-        private string cle;
-        private object valeur;
-
-        public Entre(string pCle, object pValeur)
-        {
-            cle = pCle;
-            valeur = pValeur;
-        }
-
-        public string getCle()
-        {
-            return cle;
-        }
-
-        public Object getValeur()
-        {
-            return valeur;
+            return false;
         }
 
         public override string ToString()
         {
             string chaine = string.Empty;
-            chaine = "la cle est : " + cle.ToString() + "la valeur est : " + valeur.ToString();
+            for (i = 0; i < positionLibre; i++)
+            {
+                chaine = chaine + tab[i].ToString() + "\n";
+            }
             return chaine;
         }
+
+        public bool Existe(string cle)
+        {
+            for (i = 0; i < positionLibre; i++)
+            {
+                if (tab[i].getCle() == cle)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public void Vider()
+        {
+            for (i = 0; i < positionLibre; i++)
+            {
+                tab[i] = null;
+            }
+            positionLibre = 0;
+        }
+
+        public int NombreDElement()
+        {
+            return positionLibre;
+        }
+
     }
 }

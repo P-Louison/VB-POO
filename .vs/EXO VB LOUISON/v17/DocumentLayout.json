@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionsimplifiee\\entre.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\entre.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\collection.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionsimplifiee\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D3529-6024-4CF8-B75E-D71AF24582B3}|CollectionSimplifiee\\CollectionSimplifiee.csproj|solutionrelative:collectionsimplifiee\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entre.Class.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Entre.Class.cs",
+              "RelativeDocumentMoniker": "CollectionSimplifiee\\Entre.Class.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Entre.Class.cs*",
+              "RelativeToolTip": "CollectionSimplifiee\\Entre.Class.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:33:52.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collection.class.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs",
+              "RelativeDocumentMoniker": "CollectionSimplifiee\\Collection.class.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\Collection.class.cs*",
+              "RelativeToolTip": "CollectionSimplifiee\\Collection.class.cs*",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:33:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\test.cs",
+              "RelativeDocumentMoniker": "CollectionSimplifiee\\test.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionSimplifiee\\test.cs*",
+              "RelativeToolTip": "CollectionSimplifiee\\test.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:28:46.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
