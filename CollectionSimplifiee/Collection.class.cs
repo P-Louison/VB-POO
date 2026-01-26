@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 
 namespace CollectionSimplifiee
 {
-
-
     public class Collection
     {
         private const int MAX = 5;
