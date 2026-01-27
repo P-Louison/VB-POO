@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\matrice\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\matrice\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|solutionrelative:matrice\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\matrice\\matrice.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\matrice\\matrice.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B75FEA6-D286-4058-A1BD-3A27B0CF9D59}|Matrice\\Matrice.csproj|solutionrelative:matrice\\matrice.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Matrice\\test.cs",
               "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Matrice\\test.cs*",
               "RelativeToolTip": "Matrice\\test.cs*",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T13:01:36.782Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Matrice\\Matrice.Class.cs",
               "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Matrice\\Matrice.Class.cs",
               "RelativeToolTip": "Matrice\\Matrice.Class.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAANAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T13:27:52.185Z",
               "EditorCaption": ""

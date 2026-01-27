@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Dynamic;
 using System.Linq;
@@ -83,11 +84,14 @@ namespace Matrice
 
         public Matrice MultiplicationScalaire(int pValeur)
         {
+
+            int[,] result = new int[ordre, ordre];
+
             for (int i = 0; i < ordre; i++)
             {
                 for (int j = 0; j < ordre; j++)
                 {
-                    TabMatrice[i, j] = TabMatrice[i, j] * pValeur ;
+                    result[i, j] = TabMatrice[i, j] * pValeur ;
                 }
             }
             return new Matrice(TabMatrice); 
@@ -96,22 +100,18 @@ namespace Matrice
 
         public Matrice Multiplication(Matrice m)
         {
-            int compte = 0;
             if (m.GetOrdre() == ordre)
             {
-                int add1 = 0;
-                
                 int[,] total = new int[ordre, ordre];
+
                 for (int i = 0; i < ordre; i++)
                 {
-                    for (int k = 0; k < ordre; k++)
+                    for (int j = 0; j < ordre; j++)
                     {
-                        for (int j = 0; j < ordre; j++)
+                        for (int k = 0; k < ordre; k++)
                         {
-                            add1 += TabMatrice[i, j] * m.TabMatrice[j, i];
-                            compte = j;
+                            total[i, j] += TabMatrice[i, k] * m.TabMatrice[k, j];
                         }
-                        total[i, k] = add1;
                     }  
                 }
                 return new Matrice(total);
@@ -126,20 +126,28 @@ namespace Matrice
             int val = 0;
             for (int i = 0;i < ordre; i++)
             {
-                for (int j = 0; j < ordre; j++)
+                for (int j = val; j < ordre; j++)
                 {
-                    Echanger(TabMatrice[i, j], TabMatrice[j, i]);
+                    int[] tempo = Echanger(TabMatrice[i, j], TabMatrice[j, i]);
+                    TabMatrice[i, j] = tempo[0];
+                    TabMatrice[j, i] = tempo[1];
                 }
                 val += 1;
             }
         }
 
-        private void Echanger(int val1, int val2)
+        private int[] Echanger(int val1, int val2)
         {
+
+            int[] monTableau = new int[2];
+
             int val0 = 0;
             val0 = val1;
             val1 = val2;
             val2 = val0;
+            monTableau[0] = val1;
+            monTableau[1] = val2;
+            return monTableau;
         }
 
         public override string ToString()
