@@ -25,7 +25,6 @@ namespace Matrice
             Console.WriteLine("Multiplication de la 3 par la 1");
             Console.WriteLine(maMatrice3.Multiplication(maMatrice).ToString());
 
-            /*
             Console.WriteLine("produit scalaire de la 3");
             Console.WriteLine(maMatrice3.MultiplicationScalaire(10).ToString());
 
@@ -41,7 +40,6 @@ namespace Matrice
             Console.WriteLine("Transposition de la 1");
             maMatrice.Transposee();
             Console.WriteLine(maMatrice.ToString());
-            */
 
             Console.ReadLine();
         }

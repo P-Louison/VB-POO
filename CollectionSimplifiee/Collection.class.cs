@@ -11,8 +11,14 @@ namespace CollectionSimplifiee
     {
         private const int MAX = 5;
         private Entre[] tab = new Entre[MAX];
-        private int positionLibre = 0;
+        private int positionLibre;
         private int i = 0;
+
+        public Collection() 
+        {
+            positionLibre = 0;
+        }
+
 
         private int GetIndice(string pCle)
         {
@@ -36,8 +42,8 @@ namespace CollectionSimplifiee
             {
                 tab[positionLibre] = new Entre(cCle, cValeur);
                 positionLibre++;
+                return true;           
             }
-            return true;
         }
 
         public object Retourner(string cle)
