@@ -8,6 +8,7 @@ namespace Nbcomplexe
 {
     internal class test
     {
+
         static void Main()
         {
             int choix;
@@ -28,9 +29,14 @@ namespace Nbcomplexe
                 Console.WriteLine("5. Afficher le module d’un nombre complexe saisi par l’utilisateur");
                 Console.WriteLine("6. Ajouter un Complexe dans un tableau");
                 Console.WriteLine("7. Faire la somme des nombres complexes du tableau.");
+                Console.WriteLine("9. Comparer deux complexes");
+
                 Console.WriteLine("8. Quitter");
 
                 choix = int.Parse(Console.ReadLine());
+
+
+
                 switch (choix)
                 {
                     case 1:
@@ -119,6 +125,22 @@ namespace Nbcomplexe
                         Console.WriteLine("au-revoir !");
                         continuer = false;
                         break;
+
+                    case 9:
+                        Console.WriteLine("entrez la valeur REELLE du premier NB Complexe");
+                        val1 = int.Parse(Console.ReadLine());
+                        Console.WriteLine("entrez la valeur IMAGINAIRE du premier NB Complexe");
+                        val2 = int.Parse(Console.ReadLine());
+                        Complexe Comp1 = new Complexe(val1, val2);
+                        Console.WriteLine("entrez la valeur REELLE du deuximeme NB Complexe");
+                        val1 = int.Parse(Console.ReadLine());
+                        Console.WriteLine("entrez la valeur IMAGINAIRE du deuximeme NB Complexe");
+                        val2 = int.Parse(Console.ReadLine());
+                        Complexe Comp2 = new Complexe(val1, val2);
+                        Console.WriteLine("résultat : ");
+                        Console.WriteLine(Comp1.ComparerModule(Comp2));
+                        break;
+
 
                 }
                 Console.ReadLine();

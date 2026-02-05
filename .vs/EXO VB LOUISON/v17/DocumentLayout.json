@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98815243-1ED1-47DC-AD25-56D708568213}|CollectionObjet\\CollectionObjet.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\collectionobjet\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\ConsoleApp1\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610CCB84-091F-4EFE-BBE3-D7D221674772}|Control2\\Control2.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\control2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610CCB84-091F-4EFE-BBE3-D7D221674772}|Control2\\Control2.csproj|solutionrelative:control2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610CCB84-091F-4EFE-BBE3-D7D221674772}|Control2\\Control2.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\control2\\compteureau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610CCB84-091F-4EFE-BBE3-D7D221674772}|Control2\\Control2.csproj|solutionrelative:control2\\compteureau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98815243-1ED1-47DC-AD25-56D708568213}|CollectionObjet\\CollectionObjet.csproj|C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\collectionobjet\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98815243-1ED1-47DC-AD25-56D708568213}|CollectionObjet\\CollectionObjet.csproj|solutionrelative:collectionobjet\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompteurEau.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Control2\\CompteurEau.cs",
+              "RelativeDocumentMoniker": "Control2\\CompteurEau.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Control2\\CompteurEau.cs",
+              "RelativeToolTip": "Control2\\CompteurEau.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:32:56.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Control2\\Program.cs",
+              "RelativeDocumentMoniker": "Control2\\Program.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Control2\\Program.cs",
+              "RelativeToolTip": "Control2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:32:40.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\ConsoleApp1\\Module1.vb",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Module1.vb",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\ConsoleApp1\\Module1.vb",
+              "RelativeToolTip": "ConsoleApp1\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-02T14:20:43.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Produit.Class.cs",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionObjet\\Produit.Class.cs",
               "RelativeDocumentMoniker": "CollectionObjet\\Produit.Class.cs",
@@ -30,21 +81,19 @@
               "RelativeToolTip": "CollectionObjet\\Produit.Class.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T09:45:39.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T09:45:39.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Catalogue.cs",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionObjet\\Catalogue.cs",
               "RelativeDocumentMoniker": "CollectionObjet\\Catalogue.cs",
               "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\CollectionObjet\\Catalogue.cs",
               "RelativeToolTip": "CollectionObjet\\Catalogue.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAApwCEAAAAQAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAApwKUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T09:44:48.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T09:44:48.723Z"
             }
           ]
         }
