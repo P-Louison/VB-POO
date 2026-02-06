@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrice", "Matrice\Matrice.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionObjet", "CollectionObjet\CollectionObjet.csproj", "{98815243-1ED1-47DC-AD25-56D708568213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control2", "Control2\Control2.csproj", "{610CCB84-091F-4EFE-BBE3-D7D221674772}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heritage", "Heritage\Heritage.csproj", "{FBDB68FE-DDAC-4189-B429-7651A4043407}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +59,10 @@ Global
 		{98815243-1ED1-47DC-AD25-56D708568213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98815243-1ED1-47DC-AD25-56D708568213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98815243-1ED1-47DC-AD25-56D708568213}.Release|Any CPU.Build.0 = Release|Any CPU
-		{610CCB84-091F-4EFE-BBE3-D7D221674772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{610CCB84-091F-4EFE-BBE3-D7D221674772}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{610CCB84-091F-4EFE-BBE3-D7D221674772}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{610CCB84-091F-4EFE-BBE3-D7D221674772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDB68FE-DDAC-4189-B429-7651A4043407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDB68FE-DDAC-4189-B429-7651A4043407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDB68FE-DDAC-4189-B429-7651A4043407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDB68FE-DDAC-4189-B429-7651A4043407}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

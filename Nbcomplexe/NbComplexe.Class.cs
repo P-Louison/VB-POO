@@ -15,14 +15,14 @@ namespace Nbcomplexe
 
         public Complexe(double nouvX, double nouvY)
         {
-            x = nouvX;
-            y = nouvY;
+            this.x = nouvX;
+            this.y = nouvY;
         }
 
         public Complexe()
         {
-            x = 0;
-            y = 0;
+            this.x = 0;
+            this.y = 0;
         }
 
         public double getReel() 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heritage
 {
-    internal class Voiture
+    internal class Utilitaire
     {
     }
 }

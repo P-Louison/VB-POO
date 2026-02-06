@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heritage
 {
-    internal class test
+    internal class Tourisme
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
