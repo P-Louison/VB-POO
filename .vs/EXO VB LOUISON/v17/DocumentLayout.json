@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\nbcomplexe\\nbcomplexe.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|solutionrelative:nbcomplexe\\nbcomplexe.class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\nbcomplexe\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D693287A-875C-42F8-80B3-772F40DCC0D8}|Nbcomplexe\\Nbcomplexe.csproj|solutionrelative:nbcomplexe\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDB68FE-DDAC-4189-B429-7651A4043407}|Heritage\\Heritage.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\heritage\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDB68FE-DDAC-4189-B429-7651A4043407}|Heritage\\Heritage.csproj|solutionrelative:heritage\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDB68FE-DDAC-4189-B429-7651A4043407}|Heritage\\Heritage.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\heritage\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDB68FE-DDAC-4189-B429-7651A4043407}|Heritage\\Heritage.csproj|solutionrelative:heritage\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDB68FE-DDAC-4189-B429-7651A4043407}|Heritage\\Heritage.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\heritage\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDB68FE-DDAC-4189-B429-7651A4043407}|Heritage\\Heritage.csproj|solutionrelative:heritage\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\BaseDeDonnee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\BaseDeDonnee.csproj|solutionrelative:basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Voiture.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Heritage\\Voiture.cs",
-              "RelativeDocumentMoniker": "Heritage\\Voiture.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Heritage\\Voiture.cs",
-              "RelativeToolTip": "Heritage\\Voiture.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T09:53:23.241Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vehicule.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Heritage\\Vehicule.cs",
-              "RelativeDocumentMoniker": "Heritage\\Vehicule.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Heritage\\Vehicule.cs",
-              "RelativeToolTip": "Heritage\\Vehicule.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T09:53:07.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "test.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Heritage\\test.cs",
-              "RelativeDocumentMoniker": "Heritage\\test.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Heritage\\test.cs",
-              "RelativeToolTip": "Heritage\\test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T09:52:50.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "test.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\test.cs",
-              "RelativeDocumentMoniker": "Nbcomplexe\\test.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\test.cs",
-              "RelativeToolTip": "Nbcomplexe\\test.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAgwJEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T09:39:17.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NbComplexe.Class.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\NbComplexe.Class.cs",
-              "RelativeDocumentMoniker": "Nbcomplexe\\NbComplexe.Class.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Nbcomplexe\\NbComplexe.Class.cs",
-              "RelativeToolTip": "Nbcomplexe\\NbComplexe.Class.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADgAAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\BaseDeDonnee\\Program.cs",
+              "RelativeDocumentMoniker": "BaseDeDonnee\\Program.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\BaseDeDonnee\\Program.cs*",
+              "RelativeToolTip": "BaseDeDonnee\\Program.cs*",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAIMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T09:30:53.675Z",
+              "WhenOpened": "2026-02-06T14:05:11.874Z",
               "EditorCaption": ""
             }
           ]

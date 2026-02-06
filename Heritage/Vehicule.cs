@@ -9,37 +9,27 @@ namespace Heritage
     public class Vehicule
 
     {
-        // hérite de la classe Object (implicitement)
-        private int vitesseDePointe;
-        private int nombreDeRoues;
-        private string couleur;
+        private string code;
+        private string libelle;
+        private double prixJour;
 
-        public Vehicule(int vitesseDePointe, int nombreDeRoues, string couleur)
+        public Vehicule(string code, string libelle, double prixJour)
         {
-            this.vitesseDePointe = vitesseDePointe;
-            this.nombreDeRoues = nombreDeRoues;
-            this.couleur = couleur;
+            this.code = code;
+            this.libelle = libelle;
+            this.prixJour = prixJour;
         }
+        public string GetCode() { return code; }
+        public string GetLibelle() { return libelle; }
+        public double GetPrixJour() { return prixJour; }
+        public void SetPrixJour(double nouvPrixJour) { prixJour = nouvPrixJour; }
+        public double CoutLocation(double nombreJours) { return prixJour * nombreJours; }
 
-        public int GetVitesseDePointe()
-        {
-            return vitesseDePointe;
-        }
-
-        public int GetNombreDeRoues()
-        {
-            return nombreDeRoues;
-        }
-
-        public string GetCouleur()
-        {
-            return couleur;
-        }
-        // redéfinition – Overrides - du   ToString de la classe Object
         public override string ToString()
         {
-            // renvoie la description en «clair » de notre véhicule
-            return "\nVitesse de pointe : " + vitesseDePointe.ToString() + "\nCouleur : " + couleur + "\nNombre de roue : " + nombreDeRoues.ToString();
+            return "Code catégorie : " + code +
+                 "\nLibellé catégorie : " + libelle +
+                 "\nPrix location journalière : " + prixJour.ToString();
         }
     }
 }

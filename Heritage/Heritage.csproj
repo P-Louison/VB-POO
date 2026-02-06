@@ -45,8 +45,9 @@
   <ItemGroup>
     <Compile Include="test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tourisme.cs" />
+    <Compile Include="Utilitaire.cs" />
     <Compile Include="Vehicule.cs" />
-    <Compile Include="Voiture.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
