@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\BaseDeDonnee.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\BaseDeDonnee.csproj|solutionrelative:basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8690CE67-373D-47D3-9C3C-76FDEB893CC9}|Graphisme\\Graphisme.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\graphisme\\premierefenetre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8690CE67-373D-47D3-9C3C-76FDEB893CC9}|Graphisme\\Graphisme.csproj|solutionrelative:graphisme\\premierefenetre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\Persistance.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\Persistance.csproj|solutionrelative:basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PremiereFenetre.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Graphisme\\PremiereFenetre.cs",
+              "RelativeDocumentMoniker": "Graphisme\\PremiereFenetre.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Graphisme\\PremiereFenetre.cs*",
+              "RelativeToolTip": "Graphisme\\PremiereFenetre.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:50:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\BaseDeDonnee\\Program.cs",
               "RelativeDocumentMoniker": "BaseDeDonnee\\Program.cs",
               "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\BaseDeDonnee\\Program.cs",
               "RelativeToolTip": "BaseDeDonnee\\Program.cs",
-              "ViewState": "AQIAANAAAAAAAAAAAAAAAMYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T14:05:11.874Z",
+              "WhenOpened": "2026-02-10T14:48:48.219Z",
               "EditorCaption": ""
             }
           ]
