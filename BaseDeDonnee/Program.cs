@@ -19,8 +19,8 @@ namespace ADOExemples
                 Console.WriteLine("1. selectionner les auteurs qui commencentr par :");
                 Console.WriteLine("2. ajouter un publishers (nom, adress, city, zip)");
                 Console.WriteLine("3. quel titre oeuvre est a supprimmer ?");
-
-
+                Console.WriteLine("4. ajouter un livre(idauteur,titre,pubid,isbn");
+                Console.WriteLine("5. Quitter");
 
                 choix = int.Parse(Console.ReadLine());
                 switch (choix)
@@ -114,9 +114,9 @@ namespace ADOExemples
                         try
                         {
                             string requête, requête2;
-                            int ISBN;
+                            string ISBN;
                             Console.WriteLine("Quel est l'ISBN");
-                            ISBN = int.Parse(Console.ReadLine());
+                            ISBN = (Console.ReadLine());
 
                             maCnx.Open(); // on se connecte
                                           // NOTA BENE AUTHOR est le nom champ (nom, prénom) et AUTHORS la table ! !
@@ -149,9 +149,66 @@ namespace ADOExemples
                         Console.ReadLine();
                         break;
 
+                    case 4:
+                        try
+                        {
+                            string requete, isbn, titre;
+                            int pubid, idauteur;
+                            Console.WriteLine("Quel est son isbn");
+                            isbn = Console.ReadLine();
+                            Console.WriteLine("Quel est son titre");
+                            titre = Console.ReadLine();
+                            Console.WriteLine("Quel est son id auteur");
+                            idauteur = int.Parse(Console.ReadLine());
+                            Console.WriteLine("Quel est son id editeur");
+                            pubid = int.Parse(Console.ReadLine());
+
+
+                            maCnx.Open(); // on se connecte
+                                          // NOTA BENE AUTHOR est le nom champ (nom, prénom) et AUTHORS la table ! !
+                                          // DEBUT requête paramétrée
+
+
+                            requete = "insert into titles(title,pubid, isbn) values (@titre,@idpubli, @isbn); insert into titleauthor(isbn, au_id) values(@isbn, @idauthor);";
+                            var maCde = new NpgsqlCommand(requete, maCnx);
+                            maCde.Parameters.AddWithValue("@titre", titre);
+                            maCde.Parameters.AddWithValue("@idpubli", pubid);
+                            maCde.Parameters.AddWithValue("@isbn", isbn);
+                            maCde.Parameters.AddWithValue("@idauthor", idauteur);
+
+
+                            // FIN requête paramétrée
+
+                            int nbLigneAffectées;
+                            nbLigneAffectées = maCde.ExecuteNonQuery();
+                            Console.WriteLine("Nombre de ligne affectée(s) :" + nbLigneAffectées.ToString());
+                        }
+                        catch (NpgsqlException e)
+                        {
+                            Console.WriteLine("Erreur " + e.ToString());
+                        }
+                        finally
+                        {
+                            if (maCnx is object & maCnx.State == ConnectionState.Open)
+                            {
+                                maCnx.Close(); // on se déconnecte
+                            }
+                        }
+                        Console.ReadLine();
+                        break;
+
+                    case 5:
+                        Console.WriteLine("au revoir");
+                        break;
+
+                    default:
+                        Console.WriteLine("Tu t'es trompé sous merde !");
+                        Console.WriteLine("_______________________________");
+                        break;
+
                 }
      
-            } while (choix >= 5);
+            } while (choix > 5 );
             Console.ReadLine(); 
         }
     }
