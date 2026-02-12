@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8690CE67-373D-47D3-9C3C-76FDEB893CC9}|Graphisme\\Graphisme.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\graphisme\\premierefenetre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8690CE67-373D-47D3-9C3C-76FDEB893CC9}|Graphisme\\Graphisme.csproj|solutionrelative:graphisme\\premierefenetre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\winformpers\\pageajouterediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|solutionrelative:winformpers\\pageajouterediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\winformpers\\pageafficherediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|solutionrelative:winformpers\\pageafficherediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\Persistance.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D8E558D-DE53-4203-B560-C8ABFDC4659C}|BaseDeDonnee\\Persistance.csproj|solutionrelative:basededonnee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\winformpers\\pageafficherediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|solutionrelative:winformpers\\pageafficherediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\winformpers\\pageajouterediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|solutionrelative:winformpers\\pageajouterediteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\winformpers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|solutionrelative:winformpers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|c:\\users\\eleve\\louison,perrier\\vb tp\\vb tp\\winformpers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6B125-6FF0-4AEE-8038-3D34B1B8975A}|WinFormPers\\WinFormPers.csproj|solutionrelative:winformpers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +38,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PremiereFenetre.cs",
-              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Graphisme\\PremiereFenetre.cs",
-              "RelativeDocumentMoniker": "Graphisme\\PremiereFenetre.cs",
-              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\Graphisme\\PremiereFenetre.cs*",
-              "RelativeToolTip": "Graphisme\\PremiereFenetre.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "PageAfficherEditeur.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAfficherEditeur.cs",
+              "RelativeDocumentMoniker": "WinFormPers\\PageAfficherEditeur.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAfficherEditeur.cs",
+              "RelativeToolTip": "WinFormPers\\PageAfficherEditeur.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T14:50:13.499Z",
+              "WhenOpened": "2026-02-12T13:02:27.558Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\Menu.cs",
+              "RelativeDocumentMoniker": "WinFormPers\\Menu.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\Menu.cs",
+              "RelativeToolTip": "WinFormPers\\Menu.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAADAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:47:09.976Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageAjouterEditeur.cs",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAjouterEditeur.cs",
+              "RelativeDocumentMoniker": "WinFormPers\\PageAjouterEditeur.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAjouterEditeur.cs",
+              "RelativeToolTip": "WinFormPers\\PageAjouterEditeur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:11:12.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\BaseDeDonnee\\Program.cs",
               "RelativeDocumentMoniker": "BaseDeDonnee\\Program.cs",
               "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\BaseDeDonnee\\Program.cs",
               "RelativeToolTip": "BaseDeDonnee\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T14:48:48.219Z",
+              "WhenOpened": "2026-02-12T13:11:50.924Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageAfficherEditeur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAfficherEditeur.cs",
+              "RelativeDocumentMoniker": "WinFormPers\\PageAfficherEditeur.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAfficherEditeur.cs [Design]",
+              "RelativeToolTip": "WinFormPers\\PageAfficherEditeur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:59:09.718Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageAjouterEditeur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAjouterEditeur.cs",
+              "RelativeDocumentMoniker": "WinFormPers\\PageAjouterEditeur.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\PageAjouterEditeur.cs [Design]",
+              "RelativeToolTip": "WinFormPers\\PageAjouterEditeur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:09:27.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\Menu.cs",
+              "RelativeDocumentMoniker": "WinFormPers\\Menu.cs",
+              "ToolTip": "C:\\Users\\eleve\\louison,perrier\\VB TP\\VB TP\\WinFormPers\\Menu.cs [Design]",
+              "RelativeToolTip": "WinFormPers\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:43:02.949Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
