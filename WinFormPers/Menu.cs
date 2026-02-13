@@ -35,12 +35,14 @@ namespace WinFormPers
 
         private void btnChoixQuatre_Click(object sender, EventArgs e)
         {
-
+            PageAjoutLivre pageAjoutLivre = new PageAjoutLivre();
+            pageAjoutLivre.ShowDialog();
         }
 
         private void btnChoixDeux_Click(object sender, EventArgs e)
         {
-
+            PageAjouterEditeur pageAjouterEditeur = new PageAjouterEditeur();
+            pageAjouterEditeur.ShowDialog();
         }
 
         private void btnChoixUn_Click(object sender, EventArgs e)
@@ -51,7 +53,8 @@ namespace WinFormPers
 
         private void btnChoixTrois_Click(object sender, EventArgs e)
         {
-
+            PageDelete pagedelete = new PageDelete();
+            pagedelete.ShowDialog();
         }
     }
 }

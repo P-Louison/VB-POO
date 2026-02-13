@@ -32,6 +32,8 @@
             this.tbxRechercher = new System.Windows.Forms.TextBox();
             this.lvResultat = new System.Windows.Forms.ListView();
             this.lblQuestionNom = new System.Windows.Forms.Label();
+            this.btnReset = new System.Windows.Forms.Button();
+            this.btnFermer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnrechercher
@@ -69,11 +71,33 @@
             this.lblQuestionNom.TabIndex = 3;
             this.lblQuestionNom.Text = "Quel est le début du nom ?";
             // 
+            // btnReset
+            // 
+            this.btnReset.Location = new System.Drawing.Point(477, 272);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(75, 23);
+            this.btnReset.TabIndex = 4;
+            this.btnReset.Text = "Reset";
+            this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
+            // 
+            // btnFermer
+            // 
+            this.btnFermer.Location = new System.Drawing.Point(477, 381);
+            this.btnFermer.Name = "btnFermer";
+            this.btnFermer.Size = new System.Drawing.Size(75, 23);
+            this.btnFermer.TabIndex = 5;
+            this.btnFermer.Text = "Fermer";
+            this.btnFermer.UseVisualStyleBackColor = true;
+            this.btnFermer.Click += new System.EventHandler(this.btnFermer_Click);
+            // 
             // PageAfficherEditeur
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnFermer);
+            this.Controls.Add(this.btnReset);
             this.Controls.Add(this.lblQuestionNom);
             this.Controls.Add(this.lvResultat);
             this.Controls.Add(this.tbxRechercher);
@@ -91,5 +115,7 @@
         private System.Windows.Forms.TextBox tbxRechercher;
         private System.Windows.Forms.ListView lvResultat;
         private System.Windows.Forms.Label lblQuestionNom;
+        private System.Windows.Forms.Button btnReset;
+        private System.Windows.Forms.Button btnFermer;
     }
 }

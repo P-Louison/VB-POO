@@ -22,8 +22,9 @@ namespace WinFormPers
 
         private void btnrechercher_Click(object sender, EventArgs e)
         {
-            string requête, nom, unItem;
+            string requête, nom;
             lvResultat.Columns.Add("nom de l'auteur", 200);
+            lvResultat.Columns.Add("id auteur", 75);
             lvResultat.View = View.Details;
             
 
@@ -44,9 +45,11 @@ namespace WinFormPers
             while (jeuEnr.Read())
             {
 
+                var tabItem = new string[2];
+                tabItem[0] = jeuEnr["name"].ToString();
+                tabItem[1] = jeuEnr["pubid"].ToString();
 
-                unItem = jeuEnr["name"].ToString();
-                lvResultat.Items.Add(new ListViewItem(unItem));
+                lvResultat.Items.Add(new ListViewItem(tabItem));
             }
             
 
@@ -54,7 +57,14 @@ namespace WinFormPers
 
         }
 
-        
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            lvResultat.Clear();
+        }
 
+        private void btnFermer_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -71,7 +71,7 @@
             this.btnChoixUn.Name = "btnChoixUn";
             this.btnChoixUn.Size = new System.Drawing.Size(165, 23);
             this.btnChoixUn.TabIndex = 3;
-            this.btnChoixUn.Text = "1. Afficher les éditeurs";
+            this.btnChoixUn.Text = "Afficher les éditeurs";
             this.btnChoixUn.UseVisualStyleBackColor = true;
             this.btnChoixUn.Click += new System.EventHandler(this.btnChoixUn_Click);
             // 
@@ -81,7 +81,7 @@
             this.btnChoixDeux.Name = "btnChoixDeux";
             this.btnChoixDeux.Size = new System.Drawing.Size(165, 23);
             this.btnChoixDeux.TabIndex = 4;
-            this.btnChoixDeux.Text = "2. Ajouter un éditeur";
+            this.btnChoixDeux.Text = "Ajouter un éditeur";
             this.btnChoixDeux.UseVisualStyleBackColor = true;
             this.btnChoixDeux.Click += new System.EventHandler(this.btnChoixDeux_Click);
             // 
@@ -91,7 +91,7 @@
             this.btnChoixTrois.Name = "btnChoixTrois";
             this.btnChoixTrois.Size = new System.Drawing.Size(165, 23);
             this.btnChoixTrois.TabIndex = 5;
-            this.btnChoixTrois.Text = "3. Supprimer un titre dans la table Titles";
+            this.btnChoixTrois.Text = "Supprimer un titre dans la table Titles";
             this.btnChoixTrois.UseVisualStyleBackColor = true;
             this.btnChoixTrois.Click += new System.EventHandler(this.btnChoixTrois_Click);
             // 
@@ -101,7 +101,7 @@
             this.btnChoixQuatre.Name = "btnChoixQuatre";
             this.btnChoixQuatre.Size = new System.Drawing.Size(165, 23);
             this.btnChoixQuatre.TabIndex = 6;
-            this.btnChoixQuatre.Text = "4. Ajouter un titre";
+            this.btnChoixQuatre.Text = "Ajouter un titre";
             this.btnChoixQuatre.UseVisualStyleBackColor = true;
             this.btnChoixQuatre.Click += new System.EventHandler(this.btnChoixQuatre_Click);
             // 
@@ -114,7 +114,7 @@
             this.btnAfficheTable.Text = "Affiche les tables";
             this.btnAfficheTable.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -127,7 +127,7 @@
             this.Controls.Add(this.domainUpDown1);
             this.Controls.Add(this.btnFermer);
             this.Controls.Add(this.lblCase1);
-            this.Name = "Form1";
+            this.Name = "Menu";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
